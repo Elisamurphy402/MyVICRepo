@@ -6,3 +6,5 @@ I am adding some information to the project, where are the defects going to be p
 created a new branch will see if I screwed up this whole thing.
 
 I think I am getting this whole thing.
+
+I am trying to understand how to use github to record test cases and defects.
